@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <!-- ── Screen titles ──────────────────────────────────────────────── -->
+    <string name="standard_title">Standard</string>
+    <string name="history_title">History</string>
+    <string name="memory_title">Memory</string>
+
+    <!-- ── History / Memory sheet UI strings ─────────────────────────── -->
+    <string name="clear_history">Clear all history</string>
+    <string name="clear_memory">Clear all memory</string>
+    <string name="delete_memory_entry">Delete entry</string>
+    <string name="no_history">There\'s no history yet</string>
+    <string name="no_memory">There\'s nothing saved in memory</string>
+
+    <!-- ── Memory row button labels ───────────────────────────────────── -->
+    <string name="btn_mc">MC</string>
+    <string name="btn_mr">MR</string>
+    <string name="btn_m_add">M+</string>
+    <string name="btn_m_sub">M−</string>
+    <string name="btn_ms">MS</string>
+    <string name="btn_m_open">M▾</string>
+
+    <!-- ── Memory row content descriptions ───────────────────────────── -->
+    <string name="desc_mc">Memory clear</string>
+    <string name="desc_mr">Memory recall</string>
+    <string name="desc_m_add">Memory add</string>
+    <string name="desc_m_sub">Memory subtract</string>
+    <string name="desc_ms">Memory store</string>
+    <string name="desc_m_open">Show memory</string>
+
+    <!-- ── Operator / function button labels ─────────────────────────── -->
+    <string name="btn_percent">%</string>
+    <string name="btn_ce">CE</string>
+    <string name="btn_c">C</string>
+    <string name="btn_backspace">⌫</string>
+    <string name="btn_reciprocal">1/x</string>
+    <string name="btn_square">x²</string>
+    <string name="btn_sqrt">√x</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_sign">+/−</string>
+    <string name="btn_decimal">.</string>
+
+    <!-- ── Operator / function content descriptions ───────────────────── -->
+    <string name="desc_percent">Percentage</string>
+    <string name="desc_ce">Clear entry</string>
+    <string name="desc_c">Clear all</string>
+    <string name="desc_backspace">Backspace</string>
+    <string name="desc_reciprocal">Reciprocal (1/x)</string>
+    <string name="desc_square">Square (x²)</string>
+    <string name="desc_sqrt">Square root (√x)</string>
+    <string name="desc_divide">Divide</string>
+    <string name="desc_multiply">Multiply</string>
+    <string name="desc_subtract">Subtract</string>
+    <string name="desc_add">Add</string>
+    <string name="desc_equals">Equals</string>
+    <string name="desc_sign">Toggle sign (+/−)</string>
+    <string name="desc_decimal">Decimal point</string>
+
+    <!-- ── Digit button labels ────────────────────────────────────────── -->
+    <string name="btn_digit_0">0</string>
+    <string name="btn_digit_1">1</string>
+    <string name="btn_digit_2">2</string>
+    <string name="btn_digit_3">3</string>
+    <string name="btn_digit_4">4</string>
+    <string name="btn_digit_5">5</string>
+    <string name="btn_digit_6">6</string>
+    <string name="btn_digit_7">7</string>
+    <string name="btn_digit_8">8</string>
+    <string name="btn_digit_9">9</string>
+
+    <!-- ── Digit content descriptions ────────────────────────────────── -->
+    <string name="desc_digit_0">Zero</string>
+    <string name="desc_digit_1">One</string>
+    <string name="desc_digit_2">Two</string>
+    <string name="desc_digit_3">Three</string>
+    <string name="desc_digit_4">Four</string>
+    <string name="desc_digit_5">Five</string>
+    <string name="desc_digit_6">Six</string>
+    <string name="desc_digit_7">Seven</string>
+    <string name="desc_digit_8">Eight</string>
+    <string name="desc_digit_9">Nine</string>
+
+    <!-- ── History button (top-right icon) content description ───────── -->
+    <string name="desc_history_button">Show history</string>
+</resources>
